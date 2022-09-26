@@ -2,6 +2,18 @@
 
 Greeting AI
 
+I am happy to announce that our app "Greeting AI" won 1st Place in the Assurant Way Challenge among 239 teams in 2022 ShellHacks, Florida's Largest Hackathon comprised of 1,000+ students from around the world!
+
+With my teammates, Timothy Ma, Yuxuan (Lyka) Wang, and Haoyuan Chen, we delivered a Python desktop application "Greeting AI" that helps users and companies to automatically send MMS message that contains the auto AI-generated greeting script and auto AI-generated greeting card to the designated receivers by applying OpenAI(text-davinci-002 model), DeepAI, Twilio, and Tkinter.
+
+We are excited to build more useful apps that are beneficial to our local society in the near future! 😆
+
+To see our project:
+https://lnkd.in/gMknVhKG
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 Prerequisites:
 
